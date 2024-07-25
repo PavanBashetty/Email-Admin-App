@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author santosh
+ *
+ */
+module EmailAdminApp {
+}
