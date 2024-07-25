@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Email {
 
-	//All encapsulation to hide properties from public
 	private String firstName;
 	private String lastName;
 	private String email;
